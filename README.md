@@ -1,1 +1,1 @@
---
+-- Developed a fully responsive e-commerce frontend with “Add to Cart” functionality using HTML, CSS, and JavaScript. Implemented interactive UI elements, real-time cart updates, and mobile-friendly design for seamless user experience across devices.
